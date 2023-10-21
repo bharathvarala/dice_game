@@ -31,7 +31,26 @@ p {
 img {
   width: 80%;
 }
-
+#winner{
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+.btn {
+    background-color: rgb(226, 216, 216);
+    border: none;
+    color: rgb(24, 23, 23);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    font-family: 'Indie Flower', cursive;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
 footer {
   margin-top: 5%;
   color: #EEEEEE;
